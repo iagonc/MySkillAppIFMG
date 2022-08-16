@@ -29,6 +29,9 @@ Funcional tanto em Android quanto Ios.
 Para que este rode em sua máquina, siga os passos abaixo:
 
 ```bash
+# Clone o projeto para sua maquina
+$ git clone https://github.com/iagonc/MySkillAppIFMG.git
+
 # Instale globalmente o Expo via terminal
 $ npm i -g expo-cli
 
