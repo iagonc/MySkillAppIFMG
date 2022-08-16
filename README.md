@@ -1,4 +1,4 @@
-# :white_check_mark: Organizador de Skills ( Skill App
+## :white_check_mark: Organizador de Skills ( Skill App )
 
 Aplicativo feito para gerenciar suas skills em determinados assuntos, feito usando React Native.
 
